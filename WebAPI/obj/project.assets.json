@@ -9024,11 +9024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -9049,11 +9049,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             },
-            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
-              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Seguridad\\Seguridad.csproj"
+            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
+              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Seguridad\\Seguridad.csproj"
             }
           }
         }

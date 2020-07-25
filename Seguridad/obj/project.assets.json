@@ -5617,11 +5617,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Seguridad\\Seguridad.csproj",
       "projectName": "Seguridad",
-      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Seguridad\\Seguridad.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Seguridad\\obj\\",
+      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5642,8 +5642,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

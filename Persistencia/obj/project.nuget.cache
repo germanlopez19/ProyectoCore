@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UETJj4edJTAVrtV0/wgFrsFFOVF1+nBmJArahHjN/ZR/DcSB5xRqqnarxBJii9OrNkU0+JmrKgLkLmEd68eFwQ==",
+  "dgSpecHash": "Mc/b7+/ChPYVMY1FHQ++K9boWrFw7rAy34oSAQoDPkAZzmHWgBL2NED6EYL87CTopSjZhUWcI59t2NyoyziGmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\germa\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",

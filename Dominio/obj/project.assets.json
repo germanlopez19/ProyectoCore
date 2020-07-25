@@ -805,11 +805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

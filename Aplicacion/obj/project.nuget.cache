@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2eLkqWwCDHYy/Rc1MvZkMiVPRAoy9BsG9yKvroZ53laIH01WGWHK1HL3BwWuhIgrXhG0K1q0FhjIxtGXfRkDAw==",
+  "dgSpecHash": "8nEyLoUhBepafkgMUnuZxHyt5PdVtz/ZNT+fRRYATsvVDX5c6mZyvoPAeiQoIo638uFSI56+ok4jZJqrMQF84A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\germa\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

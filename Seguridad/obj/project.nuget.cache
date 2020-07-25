@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3TznYDsircjOfkAURQmPllFXPOZCwIEzMWKcG/kGCSVqa7QjUWg9Rkt2dqyu27TgDFAnwssaZ9v8/RLicSGuyg==",
+  "dgSpecHash": "OuKVc5jc0HRRCnlY+JN911LMaf95tmcAmAYiRPU0HpfqcDqnTmzW98ZgVCk5iCRlHKwaNNVEULgCEWoIpljUkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+  "projectFilePath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Seguridad\\Seguridad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\germa\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

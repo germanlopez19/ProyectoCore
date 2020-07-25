@@ -5142,11 +5142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+      "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5167,8 +5167,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\ProyectoCore\\Dominio\\Dominio.csproj"
+            "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\germa\\OneDrive\\Documents\\Developer\\NET\\ProyectoCore\\Dominio\\Dominio.csproj"
             }
           }
         }
